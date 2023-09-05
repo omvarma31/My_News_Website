@@ -1,0 +1,58 @@
+/* Navbar */
+.navbar {
+  background-color: #3498db; /* Royal Blue */
+}
+
+.navbar-brand {
+  color: #ffffff; /* White */
+}
+
+/* News Type */
+#newsType h4 {
+  color: #e74c3c; /* Alizarin Crimson */
+}
+
+/* News Cards */
+.card {
+  background-color: #ffffff; /* White */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+.card-title {
+  color: #333333; /* Dark Gray */
+}
+
+.text-primary {
+  color: #2980b9; /* Belize Hole */
+}
+
+.text-muted {
+  color: #7f8c8d; /* Silver */
+}
+
+.btn-dark {
+  background-color: #34495e; /* Wet Asphalt */
+  color: #ffffff; /* White */
+}
+
+.btn-dark:hover {
+  background-color: #2c3e50; /* Midnight Blue */
+}
+
+/* Footer */
+.navbar-dark .navbar-nav .nav-link {
+  color: #7f8c8d; /* Silver */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #ffffff; /* White */
+}
+
+.text-white {
+  color: #ffffff; /* White */
+}
+
+.text-warning {
+  color: #f39c12; /* Sunflower */
+}
